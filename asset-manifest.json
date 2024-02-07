@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jadecrochetadmin/static/css/main.48f1844f.css",
-    "main.js": "/jadecrochetadmin/static/js/main.84f89b97.js",
+    "main.css": "/jadecrochetadmin/static/css/main.f21b2a2e.css",
+    "main.js": "/jadecrochetadmin/static/js/main.69670cda.js",
     "static/js/289.f7538514.chunk.js": "/jadecrochetadmin/static/js/289.f7538514.chunk.js",
     "index.html": "/jadecrochetadmin/index.html",
-    "main.48f1844f.css.map": "/jadecrochetadmin/static/css/main.48f1844f.css.map",
-    "main.84f89b97.js.map": "/jadecrochetadmin/static/js/main.84f89b97.js.map",
+    "main.f21b2a2e.css.map": "/jadecrochetadmin/static/css/main.f21b2a2e.css.map",
+    "main.69670cda.js.map": "/jadecrochetadmin/static/js/main.69670cda.js.map",
     "289.f7538514.chunk.js.map": "/jadecrochetadmin/static/js/289.f7538514.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48f1844f.css",
-    "static/js/main.84f89b97.js"
+    "static/css/main.f21b2a2e.css",
+    "static/js/main.69670cda.js"
   ]
 }
